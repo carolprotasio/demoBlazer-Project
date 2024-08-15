@@ -16,7 +16,7 @@ Ao longo do desenvolvimento deste projeto, foi abordado diversos aspectos da aut
 - **Log4j**: Ferramenta para geração de logs.
 - **Git**: Controle de versão.
 
-## Como Executar o Projeto
+## 🔌Como Executar o Projeto
 
 ### Pré-requisitos
 
